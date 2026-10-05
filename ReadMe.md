@@ -6,7 +6,7 @@
 
 <center>I'm a CS student 👩🏻‍💻 </br>
 Competitve Programmer 🎖️ </br>
-ECPC Finalist 🏆 </br>
+ACPC Finalist 🏆 </br>
 </center>
 
 # 🌐 Socials :
