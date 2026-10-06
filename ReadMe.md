@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed M. Wahba
 
-Software engineer and competitive programmer from Egypt. I graduated in Computer Science from Suez Canal University and I'm an ACPC finalist.
+Software engineer and competitive programmer from Egypt. I graduated in Computer Science from Suez Canal University, and I'm an ACPC finalist.
 
 I enjoy solving algorithmic problems and building full-stack web applications.
 
@@ -17,9 +17,7 @@ I enjoy solving algorithmic problems and building full-stack web applications.
 - [Image Processing App](https://github.com/abowahbaz/Image_Processing_App): JPEG compression and noise-reduction desktop app
 
 ## Find Me 🌐
-<center>
 [Codeforces](https://codeforces.com/profile/Abo_WahbaZ) 〢
 [AtCoder](https://atcoder.jp/users/Abo_WahbaZ) 〢
 [LeetCode](https://leetcode.com/u/Abo_WahbaZ/) 〢 [LinkedIn](https://linkedin.com/in/ahmedmwahba) 〢
 [X](https://x.com/Abo_WahbaZ)
-</center>
