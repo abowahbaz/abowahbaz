@@ -1,6 +1,8 @@
 # Hi, I'm Ahmed M. Wahba
 
-Software engineer and competitive programmer from Egypt. I graduated in Computer Science from Suez Canal University, and I'm an ACPC finalist.
+Software engineer and competitive programmer from Egypt.
+
+I graduated in Computer Science from Suez Canal University, and I'm an ACPC finalist.
 
 I enjoy solving algorithmic problems and building full-stack web applications.
 
